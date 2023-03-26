@@ -1,10 +1,8 @@
-//example
-// import Login from "./components/Login/Login";
+import HomePage from "./components/HomePage/HomePage";
 
 
 const routes = [
-    // example
-    // { path: "/login", component: Login },
+    { path: "/", component: HomePage },
 
 
 
